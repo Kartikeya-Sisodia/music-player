@@ -34,7 +34,7 @@ let track_list = [
   {
     name: "I Remember U",
     artist: "Cartoon and Jüri Pootsmann",
-    path: "I Remember U (128 kbps).mp3",
+    path: "./audio/I Remember U (128 kbps).mp3",
   },
   {
     name: "Be Right There (Boombox Remix)",
