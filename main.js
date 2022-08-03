@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "Sing Me To Sleep",
     artist: "Alan Walker",
-    path: "Alan Walker - Sing Me To Sleep (Lyrics) (128 kbps).mp3"
+    path: "/audio/Alan Walker - Sing Me To Sleep (Lyrics) (128 kbps).mp3"
   },
   {
     name: "Scarlet Fire",
