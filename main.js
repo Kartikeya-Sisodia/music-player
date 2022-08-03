@@ -24,22 +24,22 @@ let track_list = [
   {
     name: "Sing Me To Sleep",
     artist: "Alan Walker",
-    path: "/audio/Alan Walker - Sing Me To Sleep (Lyrics) (128 kbps).mp3"
+    path: "Alan Walker - Sing Me To Sleep (Lyrics) (128 kbps).mp3"
   },
   {
     name: "Scarlet Fire",
     artist: "Otis Mcdonald",
-    path: "/audio/Otis McDonald - Scarlet Fire (128 kbps).mp3"
+    path: "Otis McDonald - Scarlet Fire (128 kbps).mp3"
   },
   {
     name: "I Remember U",
     artist: "Cartoon and Jüri Pootsmann",
-    path: "/audio/I Remember U (128 kbps).mp3",
+    path: "I Remember U (128 kbps).mp3",
   },
   {
     name: "Be Right There (Boombox Remix)",
     artist: "Diplo",
-    path: "/audio/Diplo & Sleepy Tom - Be Right There (Boombox Cartel Remix) (128 kbps).mp3"
+    path: "Diplo & Sleepy Tom - Be Right There (Boombox Cartel Remix) (128 kbps).mp3"
   }
 ];
 
